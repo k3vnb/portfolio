@@ -45,7 +45,7 @@ h3 {
 }
 .img {
   border-radius: 20%;
-  max-width: 200px;
+  max-width: 250px;
   margin-right: 15px;
   margin-left: 15px;
   margin-top: 15px;
@@ -64,4 +64,8 @@ h3 {
 .container {
   padding-bottom: 15px;
   border-bottom-style: double;
+}
+.student {
+  font-family: monospace;
+  font-size: 18px;
 }
