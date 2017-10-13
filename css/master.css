@@ -17,7 +17,16 @@ h3 {
 .header {
   border-style: solid;
   background-color: rgba(169, 152, 90, 0.18);
+  margin-left: 5px;
+  margin-right: 5px;
 }
+.closer {
+  border-style: solid;
+  background-color: rgba(169, 152, 90, 0.18);
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 .maincontent {
   margin-left: 25px;
   margin-right: 25px;
@@ -36,19 +45,13 @@ h3 {
   margin-right: 60px;
   margin-left: 15px;
   box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.79);
+  float:right;
 }
 .justify {
   text-align: justify;
 }
-.column1 {
-  width: 50%;
+.card{
+  margin: 5px;
   float: left;
-  margin: auto;
-  padding: inherit;
-}
-.column2 {
-  width: 50%;
-  float: left;
-  margin: auto;
-  padding: inherit;
+  box-shadow: 0 0 6px;
 }
