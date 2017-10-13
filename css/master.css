@@ -1,0 +1,10 @@
+h1 h2 {
+  text-align: center;
+  font-size: 82px;
+}
+.floatleft {
+  float: left;
+  max-width: 110px;
+  border-radius: 60%;
+  margin-right: 20px;
+  }
