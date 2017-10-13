@@ -7,4 +7,11 @@ h1 h2 {
   max-width: 110px;
   border-radius: 60%;
   margin-right: 20px;
+  margin-left: 2px;
+  margin-top: 2px;
+  box-shadow: 1px 3px 9px 0px rgba(0, 0, 0, 0.36);
+  }
+  .textbox {
+    border-style: solid;
+    background-color: rgba(169, 152, 90, 0.18);
   }
