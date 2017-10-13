@@ -11,7 +11,11 @@ h1 h2 {
   margin-top: 2px;
   box-shadow: 1px 3px 9px 0px rgba(0, 0, 0, 0.36);
   }
-  .textbox {
-    border-style: solid;
-    background-color: rgba(169, 152, 90, 0.18);
-  }
+.header {
+  border-style: solid;
+  background-color: rgba(169, 152, 90, 0.18);
+}
+.maincontent {
+  margin-left: 25px;
+  margin-right: 25px;
+}
