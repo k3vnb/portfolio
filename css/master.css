@@ -1,10 +1,11 @@
-h1 h2 {
-  text-align: center;
-  font-size: 82px;
+h1, h2 {
+  font-size: 60px;
 }
+
 h3 {
   font-family: sans-serif;
 }
+
 .floatleft {
   float: left;
   max-width: 110px;
@@ -14,13 +15,15 @@ h3 {
   margin-top: 2px;
   border-style: solid;
   box-shadow: 1px 3px 9px 0px rgba(0, 0, 0, 0.36);
-  }
+}
+
 .header {
   border-style: solid;
   background-color: rgba(169, 152, 90, 0.18);
   margin-left: 5px;
   margin-right: 5px;
 }
+
 .closer {
   border-style: solid;
   background-color: rgba(169, 152, 90, 0.18);
@@ -35,16 +38,15 @@ h3 {
   margin-left: 25px;
   margin-right: 25px;
 }
+
 .week1 {
   border-bottom-style: double;
   padding-bottom: 5px;
   padding-left: 5px;
   margin-bottom: 10px;
-  background-color: rgba(250, 128, 114, 0.39)
+  background-color: rgba(250, 128, 114, 0.39);
 }
-.day1 {
 
-}
 .img {
   border-radius: 20%;
   max-width: 250px;
@@ -54,23 +56,28 @@ h3 {
   box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.79);
   float:right;
 }
+
 .justify {
   text-align: justify;
 }
+
 .card{
   margin: 2px;
   padding: 2px;
   float: left;
   box-shadow: 0 0 3px;
 }
+
 .container {
   padding-bottom: 15px;
   border-bottom-style: double;
 }
+
 .student {
   font-family: monospace;
   font-size: 18px;
 }
+
 .contactme {
   text-align: right;
   margin-top: 20px;
