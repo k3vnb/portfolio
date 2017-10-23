@@ -6,7 +6,7 @@
 
 ## Description
 
-_Page can be found at https://lemurriot.github.io/portfolio/Webpage. It is written according to criteria for End of Week 1 project at Epicodus. Criteria includes use of HTML fundamental tags, ie, p,h,ul,ol, li, em, a, img, div, span, etc, block elements, CSS stylesheet, bootstrap classes_
+_Page can be found at https://lemurriot.github.io/portfolio/. It is written according to criteria for End of Week 1 project at Epicodus. Criteria includes use of HTML fundamental tags, ie, p,h,ul,ol, li, em, a, img, div, span, etc, block elements, CSS stylesheet, bootstrap classes_
 
 ## Setup/Installation Requirements
 
